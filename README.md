@@ -53,15 +53,26 @@ It helps students prioritize tasks and utilize their available time effectively.
 2. Open index.html in a web browser
 
 ## Screenshots
+### Home page
+<img width="1890" height="911" alt="home" src="https://github.com/user-attachments/assets/2a352e81-4dbe-421c-bbd4-ffbf20c03044" />
 
-## Home page
-<img width="1890" height="911" alt="home" src="https://github.com/user-attachments/assets/a40bdbb5-9753-424c-9620-5f2608ac02c5" />
-## Input page
-<img width="1886" height="906" alt="input" src="https://github.com/user-attachments/assets/9c134a25-c087-40cd-8175-e095bb642310" />
-## Plan page
-<img width="1889" height="907" alt="plan" src="https://github.com/user-attachments/assets/7a1ad5cd-75b7-4a61-be8a-4011ab5bb5b9" />
-## Result page
-<img width="1895" height="908" alt="result" src="https://github.com/user-attachments/assets/13a4c49f-ed86-4c3b-bd32-ca34a84b6faf" />
+<br><br>
+
+### Input page
+<img width="1886" height="906" alt="input" src="https://github.com/user-attachments/assets/54d6c14a-8e2b-47cc-93e7-84dca809d7d6" />
+
+
+<br><br>
+
+### Plan page
+<img width="1889" height="907" alt="plan" src="https://github.com/user-attachments/assets/6922d4d9-fe0e-424f-b4d3-bb89c46df691" />
+
+
+<br><br>
+
+### Result page
+<img width="1895" height="908" alt="result" src="https://github.com/user-attachments/assets/0ddc6e36-53b9-4052-9950-0329bb03b0ac" />
+
 
 ## Future Scope
 
